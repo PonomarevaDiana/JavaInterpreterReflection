@@ -2,7 +2,6 @@ package org.example;
 import java.io.FileOutputStream;
 import java.lang.reflect.Method;
 import java.util.Scanner;
-
 public class JavaInterpreter {
 
     public static void main(String[] args) {
